@@ -2,4 +2,4 @@
 
 print("Hellooo", "Optional Parameters", sep="-", end="!")
 
-print("\nmilk", "cheese", "yogurt", sep="")
+print("\nmilk", "cheese", "yogurt", sep=" ")
