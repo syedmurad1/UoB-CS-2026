@@ -2,9 +2,9 @@
 name = input("Please enter your name: ")
 print("Hellooo, " + name)
 
-# Type Conversion
-age = int(input("Enter your age: "))
-weight = float(input("Enter your weight: "))
+# # Type Conversion
+# age = int(input("Enter your age: "))
+# weight = float(input("Enter your weight: "))
 
-print("Age:", age, "Weight:", weight)
+# print("Age:", age, "Weight:", weight)
 
